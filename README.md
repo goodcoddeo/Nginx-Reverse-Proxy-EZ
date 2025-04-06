@@ -63,7 +63,7 @@ Domain (e.g. example.com): my.site.com
 ...
 ✅ Domain points to Cloudflare proxy IP
 ✅ Nginx config applied successfully!
-🌐 http://my.site.com -> http://127.0.0.1:3000
+🌐 http://example.com -> http://127.0.0.1:3000
 ```
 
 ---
@@ -157,7 +157,7 @@ chmod +x setup-nginx-proxy.sh
 ...
 ✅ 도메인이 Cloudflare 프록시 IP를 가리키고 있습니다.
 ✅ Nginx 설정이 성공적으로 적용되었습니다!
-🌐 http://my.site.com -> http://127.0.0.1:3000
+🌐 http://example.com -> http://127.0.0.1:3000
 ```
 
 ---
