@@ -1,5 +1,7 @@
 🇰🇷 Nginx 리버스 프록시 자동 설정 스크립트 — DNS 확인부터 설정파일 생성, 적용까지 한 번에! <br>
-🌐 Easy Nginx Reverse Proxy Setup — From DNS check to config & reload, fully automated!
+🌐 Easy Nginx Reverse Proxy Setup — From DNS check to config & reload, fully automated! <br>
+
+Page -> https://goodcoddeo.github.io/Nginx-Reverse-Proxy-EZ/
 
 ---
 
